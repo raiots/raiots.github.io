@@ -1,0 +1,15 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path stroke="null" id="svg_1" d="m110.85125,128l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#2366d1"/>
+  <path stroke="null" id="svg_2" d="m110.85125,64l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#609dff"/>
+  <path stroke="null" id="svg_3" d="m110.85125,0l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#a4c7ff"/>
+  <text stroke="null" transform="matrix(31.16608238220215,0,0,4.988351821899414,-10377.132339477539,-429.55795481801033) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="129.453125" x="344" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text font-weight="normal" stroke="null" transform="matrix(8.253926775776161,0,0,7.919456153964242,-3147.65859614352,-571.6714801633557) " xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="26" id="svg_10" y="98.644343" x="414.412392" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">RAIOT</text>
+ </g>
+</svg>
